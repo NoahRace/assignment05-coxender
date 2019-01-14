@@ -16,14 +16,16 @@ In this assignment, there are a few .java files (i.e., source code files with Ja
 #### set up BlueJ project
 5. create a BlueJ project (and know where the project is in your file system, that is the actual folder in Windows/Mac)
 6. copy the java files in the folder (step 4) to the BlueJ project folder
-7. back to the BlueJ window, you should see the updated classes
+7. close the BlueJ project and open the same project again, you should see the new classes you just added
 
 #### fixing the java files
-For each Java file,
+For each Java file (except Hello5.java),
 1. write down the compiler's error message in the comment in the beginning of the Java file
 2. fix the error (one error for each Java file) 
 3. add a comment in the file to explain what the errors are and how you fix them
 4. upload the new fixed ```.java``` files (keep the original filenames; do not change the filenames)
+
+For Hello5.java, use auto-indent to re-format the entire Java file, and upload the re-formatted file back to GitHub repository.
 
 That's it!
 
