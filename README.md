@@ -4,5 +4,5 @@
 In this assignment, there are a few .java files (i.e., source code files with Java statements). These Java files have errors in them. What you need to do is: 
 1. fix those errors 
 2. explain what the errors are and how you fixed them
-3. upload the new fixed ```.java``` files (with the same name, do not change the filenames)
+3. upload the new fixed ```.java``` files (keep the original filenames; do not change the filenames)
 
